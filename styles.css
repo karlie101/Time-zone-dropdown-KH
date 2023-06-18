@@ -1,0 +1,11 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+select {
+  padding: 5px;
+  border: 2px solid #00b8a9;
+  border-radius: 4px;
+  background-color: #f8f3d4;
+  color: #f6416c;
+}
